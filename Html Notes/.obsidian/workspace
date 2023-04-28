@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "ae987bb5807c33f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6094cc1f22916647",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "HTML Review Coding.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88f749e2c219f0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3e361a6343ee439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4d11227544b03d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86caad3e55d6fe9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8bf2c829fcfe40b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1993f8dbfd3de04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e78d4acc547164",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML Review Coding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6094cc1f22916647",
+  "lastOpenFiles": [
+    "HTML Review Coding.md",
+    "Untitled.md"
+  ]
+}
